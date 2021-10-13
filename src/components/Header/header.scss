@@ -1,0 +1,17 @@
+.header {
+  padding: 30px;
+  .headerLeft {
+    p {
+      margin: 0;
+      font-size: 36px;
+      font-weight: 500;
+      .logoCenter {
+        color: #f85c50;
+      }
+    }
+    .logoShort {
+      font-size: 10px;
+      font-weight: 300;
+    }
+  }
+}
